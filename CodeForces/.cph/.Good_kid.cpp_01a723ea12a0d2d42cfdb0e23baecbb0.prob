@@ -1,0 +1,1 @@
+{"name":"Local: Good_kid","url":"c:\\Users\\Dell\\Desktop\\MySpace\\CodeForces\\Good_kid.cpp","tests":[{"id":1695576209804,"input":"3\n8 100000000\n1 3\n10 12","output":"440\n36\n4059"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\MySpace\\CodeForces\\Good_kid.cpp","group":"local","local":true}
